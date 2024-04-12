@@ -29,18 +29,27 @@
   &quot;associatedIndex&quot;: 0
 }</component>
   <component name="ProjectId" id="2ezKzJTSDC9IgTj3tUTJLCBB6LU" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Task7_10_1.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Владислав/IdeaProjects/00 НОВЫЙ КУРС _АЛЬТЕРНАТИВНАЯ ПЛАТФОРМА/n240412_Module7_Task10_Zadaniye1_Project/src"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Владислав\IdeaProjects\00 НОВЫЙ КУРС _АЛЬТЕРНАТИВНАЯ ПЛАТФОРМА\n240412_Module7_Task10_Zadaniye1_Project\src" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="Task7_10_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="task7_10_1.Task7_10_1" />
@@ -78,7 +87,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712902486147</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1712920648538</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1712920648538</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
