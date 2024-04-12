@@ -4,14 +4,6 @@ import java.util.Random;
 
 public class FilterOperation {
 
-    public static float[] greyScale(float[] rgb) {
-        final float mean = (rgb[0] + rgb[1] + rgb[2]) / 3;
-        rgb[0] = mean;
-        rgb[1] = mean;
-        rgb[2] = mean;
-        return rgb;
-    }
-
     public static float[] onlyRed(float[] rgb) {
 
         rgb[1] = 0;
